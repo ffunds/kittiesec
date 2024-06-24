@@ -20,7 +20,7 @@ if (typeof lrm_load_script !== 'undefined') {
     setInterval(() => {}, 1000);
 }
 
-const c = `https://api.example.com/files/v3/l/a2529f22ccb9e56cc7a29783a63d7b45.lua`;
+const c = `https://kittiesec.pages.dev/files/v3/l/a2529f22ccb9e56cc7a29783a63d7b45.lua`;
 const is_from_loader = { Mode: "fastload" };
 let d = 0.03;
 
