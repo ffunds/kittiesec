@@ -1,1 +1,0 @@
-function factorial(v1) if (v1==0) then return 1;else return v1 * factorial(v1-1 ) ;end end local v0={1,2,3,4,5};for v2,v3 in ipairs(v0) do print("Factorial of "   .. v3   .. " is "   .. factorial(v3) );end
